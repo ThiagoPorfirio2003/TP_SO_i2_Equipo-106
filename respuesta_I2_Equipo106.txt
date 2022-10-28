@@ -1,3 +1,8 @@
 Alfa: Lucas Torres
 Beta: Thiago Lisandro Porfirio
 Gamma: Matias Horisberger
+
+RESPUESTAS:
+
+a_Hay una opción en github que permite sincronizar el fork con la versión más actualizada de el repositorio "padre" creado por Beta.
+b_Si se puede, github permite seleccionar el repositorio base desde el cual se realiza el "sync" del fork, por lo cual se pueden elegir otros fork, en este caso el de "alfa", para actualizar cambios.
