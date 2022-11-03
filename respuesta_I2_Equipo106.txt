@@ -24,10 +24,14 @@ git pull https://github.com/ThiagoPorfirio2003/TP_SO_i2_Equipo-106.git main
 git merge  https://github.com/ThiagoPorfirio2003/TP_SO_i2_Equipo-106.git main
 
 Matias Horisberger(Gamma):
-git clone
-git init
+git clone https://github.com/matigthb/TP_SO_i2_Equipo-106.git
 git add .
-git commit -m ""
+git commit -m "Modificando Datos"
+git push
+
+git pull
+git add .
+git commit -m "Subiendo A y B - Punto 4"
 git push
 
 
