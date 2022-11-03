@@ -10,3 +10,35 @@ c-Si puedo, mediante un pull request a cualquiera de los repositorios que hicier
 que esperar a que el dueño de ese repositorio acepte mi solicitud.
 d-Depende, al querer actualizarme a un repositorio que hizo fork al mio, me deja la opcion de copiar tal cual todo,
 no copiar algunas cosas y tener tanto mis archivos como los de el repositorio que hizo fork al mio
+e-
+Lucas Torres(Alfa):
+git clone https://github.com/LucasTorres19/TP_SO_i2_Equipo-106.git
+git add .
+git commit -m "editando el fork.txt"
+git push origin main
+git add .
+git commit -m "editando el fork.txt"
+git push
+git checkout -b  ThiagoPorfirio2003-main main
+git pull https://github.com/ThiagoPorfirio2003/TP_SO_i2_Equipo-106.git main
+git merge  https://github.com/ThiagoPorfirio2003/TP_SO_i2_Equipo-106.git main
+
+Matias Horisberger(Gamma):
+git clone
+git init
+git add .
+git commit -m ""
+git push
+
+
+Thiago Porfilio(Beta):
+
+git clone https://github.com/ThiagoPorfirio2003/TP_SO_i2_Equipo-106.git
+git add .
+git commit -m "Se creo NuevoDato.txt"
+git push
+
+git pull
+git add .
+git commit -m "Se respondio c y d"
+git push
