@@ -1,0 +1,12 @@
+Alfa: Lucas Torres
+Beta: Thiago Lisandro Porfirio
+Gamma: Matias Horisberger
+
+RESPUESTAS:
+
+a_Hay una opción en github que permite sincronizar el fork con la versión más actualizada de el repositorio "padre" creado por Beta.
+b_Si se puede, github permite seleccionar el repositorio base desde el cual se realiza el "sync" del fork, por lo cual se pueden elegir otros fork, en este caso el de "alfa", para actualizar cambios.
+c-Si puedo, mediante un pull request a cualquiera de los repositorios que hicieron fork del medio, luego de eso tengo
+que esperar a que el dueño de ese repositorio acepte mi solicitud.
+d-Depende, al querer actualizarme a un repositorio que hizo fork al mio, me deja la opcion de copiar tal cual todo,
+no copiar algunas cosas y tener tanto mis archivos como los de el repositorio que hizo fork al mio
